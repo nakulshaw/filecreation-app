@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/nakulshaw/filecreation-app/issues"
   },
-  "homepage": "https://github.com/nakulshaw/filecreation-app#readme"
+  "homepage": "https://github.com/nakulshaw/filecreation-app#readme",
+  "dependencies": {
+    "readline": "^1.3.0"
+  }
 }
